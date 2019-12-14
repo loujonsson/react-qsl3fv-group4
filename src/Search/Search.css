@@ -1,0 +1,40 @@
+.Search {
+  border-bottom: 1.5px solid #c2c2c2;
+  padding-bottom: 3vh;
+}
+.text3{
+  font-family: verdana;
+  font-size: 1.3vw;
+  margin-left: 5%;
+  margin-top: 3%;
+  width: 20%;
+  margin-right: 0;
+}
+.searchBar {
+  float: left;
+  padding: 6px;
+  margin-top: 4px;
+  margin-left: 5%;
+  font-size: 1.3vw;
+  border: 5%;
+}
+.submit {
+ float: left;
+ padding: 6px 10px;
+ margin-top: 4px;
+ margin-left: 16px;
+ background: #F5B270;
+ font-size: 1.3vw;
+ border: 2px solid #000000;
+ cursor: pointer;
+ box-shadow: 1px 2px #000000;
+ border-radius: 6px;
+}
+.list {
+  float: left;
+  padding: 6px;
+  margin-top: 4px;
+  font-size: 1.3vw;
+  border: 5%;
+  margin-left: 15px;
+}

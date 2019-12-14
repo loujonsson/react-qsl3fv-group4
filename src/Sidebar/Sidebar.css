@@ -1,0 +1,61 @@
+.Sidebar{
+  height: 100%;
+  border-right: 1.5px solid #c2c2c2;
+  box-shadow: 2px 0px #e3e3e3;
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 16px; 
+  margin-right:10px;
+}
+#startBtn, .confirmBtn, #toSearchBtn, .ingredButton{
+  background-color: #F5B270;
+  border: 2px solid #000000;
+  box-shadow: 1px 2px #000000;
+  cursor: pointer;
+  font-family: verdana;
+  display: inline-block;
+  border-radius: 6px;
+  padding: 5px 5px 5px 5px;
+  margin-bottom: 20px;
+}
+.text, .left, .right, .confirmButton, .removeButton{
+  font-family: verdana;
+  font-size: 1.3vw;
+}
+.text{
+  margin-left: 5%;
+  width: 95%;
+}
+.input{
+  width: 2.5em;
+  font-size: 2vw;
+}
+.sectionDiv{
+  background-color: #e3e3e3;
+  margin-left: 0;
+  margin-right: 0;
+  overflow: hidden;
+  border-top: 2px solid #c2c2c2;
+  border-bottom: 2px solid #c2c2c2;
+}
+.right{
+  float: right;
+  margin-right: 10px;
+}
+.left{
+  float: left;
+  margin-left: 5px;
+  width: min-content;
+}
+.totalPrice{
+  color: #6F1E3B;
+}
+.buttonDiv{
+  text-align: center;
+}
+.confirmBtn{
+  font-size: 1.5vw;
+  margin-left: 3vw;
+  margin-right: 3vw;
+  margin-top: 2vh;
+}

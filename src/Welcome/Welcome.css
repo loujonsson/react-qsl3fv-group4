@@ -1,0 +1,22 @@
+.Welcome{
+  margin-top: 8em;
+  margin-bottom: 2em;
+  margin-left: 7em;
+  margin-right: 7em;
+  font-family: verdana;
+  font-size: 1.3vw;
+  line-height: 2em;
+  text-align: center;
+}
+.startBtn{
+  background-color: #F5B270;
+  border: 2px solid #000000;
+  box-shadow: 1px 2px #000000;
+  cursor: pointer;
+  font-family: verdana;
+  display: inline-block;
+  border-radius: 6px;
+  padding: 10px 10px 10px 10px;
+  margin-top: 2em;
+  font-size: 2vw;
+}
