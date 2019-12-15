@@ -25,7 +25,7 @@ class Dishes extends Component {
       .then(dishes => {
         this.setState({
           status: "LOADED",
-          dishes: dishes.results
+          dishes: dishes
         });
       })
       .catch(() => {
